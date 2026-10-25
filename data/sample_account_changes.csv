@@ -1,0 +1,7 @@
+"Time","EventCode","Computer","SubjectUserName","AffectedAccount","GroupName"
+"2026-10-25 15:01:02","4726","LAB-PC","lab-admin","labtemp",""
+"2026-10-25 15:01:02","4733","LAB-PC","lab-admin","labtemp","Users"
+"2026-10-25 15:00:57","4733","LAB-PC","lab-admin","labtemp","Administrators"
+"2026-10-25 15:00:52","4732","LAB-PC","lab-admin","labtemp","Administrators"
+"2026-10-25 15:00:47","4732","LAB-PC","lab-admin","labtemp","Users"
+"2026-10-25 15:00:47","4720","LAB-PC","lab-admin","labtemp",""
